@@ -1,0 +1,815 @@
+Product: SmartWatch Pro X
+Price: ₹15,999 | Features: Heart rate, GPS, 7-day battery, water resistant 50m
+Warranty: 1 year standard, 2 years extended (₹1,999)
+ 
+Product: Wireless Earbuds Elite
+Price: ₹4,999 | Features: ANC, 24-hour battery, Bluetooth 5.2 | Warranty: 6 months
+ 
+Product: Power Bank Ultra 20000mAh
+Price: ₹2,499 | Features: Fast charging 22.5W, USB-C & USB-A | Warranty: 1 year
+ 
+Return Policy: 7-day no-questions-asked. Refund in 5-7 business days.
+Support: Mon-Sat, 9AM-6PM IST | support@techgear.com
+
+
+# --- DUMMY CATALOG START ---
+
+Product: UpsilonUltra Phone v1.0
+Price: ₹16,629 | Features: OLED display, Fast charging, Wireless sync
+Warranty: 2 year(s)
+
+Product: MuMic Streamer v4.9
+Price: ₹2,821 | Features: Compact design, Fast charging, Voice control
+Warranty: 2 year(s)
+
+Product: PiPrint 3D v1.4
+Price: ₹18,882 | Features: Long battery life, Compact design, Bluetooth 5.3
+Warranty: 3 year(s)
+
+Product: RhoRing Smart v1.4
+Price: ₹18,520 | Features: Bluetooth 5.3, Water resistant, Wireless sync
+Warranty: 2 year(s)
+
+Product: TauTherm Smart v4.8
+Price: ₹46,316 | Features: Wireless sync, Touch interface, Compact design
+Warranty: 2 year(s)
+
+Product: EtaLight Smart Bulb v6.8
+Price: ₹19,583 | Features: Water resistant, OLED display, Long battery life
+Warranty: 2 year(s)
+
+Product: IotaMouse Gaming v3.3
+Price: ₹19,766 | Features: Noise cancelling, Water resistant, Touch interface
+Warranty: 1 year(s)
+
+Product: NuNode SSD v8.6
+Price: ₹17,046 | Features: Bluetooth 5.3, Wireless sync, Long battery life
+Warranty: 3 year(s)
+
+Product: AlphaSmart Watch v7.9
+Price: ₹12,305 | Features: Touch interface, Bluetooth 5.3, Fast charging
+Warranty: 1 year(s)
+
+Product: KappaPad Pro v9.4
+Price: ₹10,361 | Features: Water resistant, Voice control, Long battery life
+Warranty: 1 year(s)
+
+Product: GammaCharge Pro v3.0
+Price: ₹37,838 | Features: Noise cancelling, Bluetooth 5.3, OLED display
+Warranty: 1 year(s)
+
+Product: DeltaTab 10 v7.8
+Price: ₹33,948 | Features: Long battery life, Voice control, Touch interface
+Warranty: 2 year(s)
+
+Product: MuMic Streamer v3.4
+Price: ₹30,924 | Features: Voice control, Water resistant, Fast charging
+Warranty: 3 year(s)
+
+Product: XiXenon Monitor v7.6
+Price: ₹48,336 | Features: Wireless sync, Voice control, Long battery life
+Warranty: 2 year(s)
+
+Product: DeltaTab 10 v9.1
+Price: ₹40,241 | Features: Water resistant, Long battery life, OLED display
+Warranty: 1 year(s)
+
+Product: PiPrint 3D v5.5
+Price: ₹47,458 | Features: Compact design, Wireless sync, OLED display
+Warranty: 2 year(s)
+
+Product: SigmaScale Body v1.6
+Price: ₹45,852 | Features: Noise cancelling, Water resistant, Compact design
+Warranty: 2 year(s)
+
+Product: PiPrint 3D v8.6
+Price: ₹22,112 | Features: Water resistant, Noise cancelling, Long battery life
+Warranty: 3 year(s)
+
+Product: ThetaKey Mechanical Keyboard v7.6
+Price: ₹4,503 | Features: Noise cancelling, Voice control, OLED display
+Warranty: 1 year(s)
+
+Product: IotaMouse Gaming v2.4
+Price: ₹2,405 | Features: Voice control, Water resistant, Fast charging
+Warranty: 2 year(s)
+
+Product: GammaCharge Pro v2.0
+Price: ₹28,209 | Features: Voice control, Wireless sync, Water resistant
+Warranty: 2 year(s)
+
+Product: ThetaKey Mechanical Keyboard v3.9
+Price: ₹47,019 | Features: Compact design, Noise cancelling, Long battery life
+Warranty: 2 year(s)
+
+Product: AlphaSmart Watch v3.7
+Price: ₹22,729 | Features: Fast charging, Wireless sync, Water resistant
+Warranty: 3 year(s)
+
+Product: XiXenon Monitor v6.1
+Price: ₹49,188 | Features: Voice control, Noise cancelling, OLED display
+Warranty: 1 year(s)
+
+Product: PiPrint 3D v4.1
+Price: ₹41,820 | Features: Noise cancelling, Bluetooth 5.3, OLED display
+Warranty: 3 year(s)
+
+Product: UpsilonUltra Phone v7.5
+Price: ₹16,729 | Features: Touch interface, OLED display, Water resistant
+Warranty: 2 year(s)
+
+Product: ZetaSound Bar v2.6
+Price: ₹39,595 | Features: Compact design, Noise cancelling, OLED display
+Warranty: 3 year(s)
+
+Product: LambdaLink Router v4.5
+Price: ₹31,748 | Features: OLED display, Water resistant, Voice control
+Warranty: 3 year(s)
+
+Product: IotaMouse Gaming v8.3
+Price: ₹41,191 | Features: Water resistant, Fast charging, Long battery life
+Warranty: 3 year(s)
+
+Product: XiXenon Monitor v4.7
+Price: ₹30,921 | Features: Touch interface, Water resistant, Compact design
+Warranty: 2 year(s)
+
+Product: XiXenon Monitor v3.5
+Price: ₹17,575 | Features: Bluetooth 5.3, Voice control, Compact design
+Warranty: 1 year(s)
+
+Product: OmicronOscilloscope v5.7
+Price: ₹40,271 | Features: Bluetooth 5.3, OLED display, Voice control
+Warranty: 1 year(s)
+
+Product: OmicronOscilloscope v6.9
+Price: ₹18,811 | Features: OLED display, Bluetooth 5.3, Long battery life
+Warranty: 3 year(s)
+
+Product: KappaPad Pro v3.4
+Price: ₹26,260 | Features: Compact design, OLED display, Water resistant
+Warranty: 1 year(s)
+
+Product: XiXenon Monitor v1.2
+Price: ₹26,961 | Features: Voice control, Wireless sync, OLED display
+Warranty: 2 year(s)
+
+Product: UpsilonUltra Phone v8.1
+Price: ₹19,473 | Features: OLED display, Compact design, Water resistant
+Warranty: 2 year(s)
+
+Product: UpsilonUltra Phone v6.8
+Price: ₹8,278 | Features: Water resistant, Compact design, Touch interface
+Warranty: 3 year(s)
+
+Product: AlphaSmart Watch v7.9
+Price: ₹27,918 | Features: Fast charging, Water resistant, OLED display
+Warranty: 3 year(s)
+
+Product: ThetaKey Mechanical Keyboard v3.0
+Price: ₹41,498 | Features: Wireless sync, Bluetooth 5.3, Noise cancelling
+Warranty: 3 year(s)
+
+Product: BetaBuds Wireless v5.1
+Price: ₹24,090 | Features: Bluetooth 5.3, Wireless sync, Fast charging
+Warranty: 2 year(s)
+
+Product: RhoRing Smart v6.9
+Price: ₹13,808 | Features: OLED display, Fast charging, Compact design
+Warranty: 1 year(s)
+
+Product: UpsilonUltra Phone v8.0
+Price: ₹10,638 | Features: Long battery life, Fast charging, OLED display
+Warranty: 2 year(s)
+
+Product: DeltaTab 10 v7.1
+Price: ₹9,722 | Features: Water resistant, Compact design, Bluetooth 5.3
+Warranty: 2 year(s)
+
+Product: GammaCharge Pro v8.2
+Price: ₹5,736 | Features: OLED display, Voice control, Bluetooth 5.3
+Warranty: 1 year(s)
+
+Product: AlphaSmart Watch v5.8
+Price: ₹31,517 | Features: OLED display, Noise cancelling, Water resistant
+Warranty: 2 year(s)
+
+Product: MuMic Streamer v9.5
+Price: ₹46,158 | Features: Noise cancelling, Voice control, Touch interface
+Warranty: 1 year(s)
+
+Product: EtaLight Smart Bulb v1.4
+Price: ₹42,465 | Features: Touch interface, Water resistant, Compact design
+Warranty: 1 year(s)
+
+Product: ThetaKey Mechanical Keyboard v1.2
+Price: ₹9,622 | Features: Wireless sync, OLED display, Water resistant
+Warranty: 3 year(s)
+
+Product: RhoRing Smart v4.1
+Price: ₹44,603 | Features: Long battery life, Wireless sync, Compact design
+Warranty: 1 year(s)
+
+Product: LambdaLink Router v8.6
+Price: ₹11,806 | Features: Fast charging, Voice control, Noise cancelling
+Warranty: 3 year(s)
+
+Product: ThetaKey Mechanical Keyboard v5.8
+Price: ₹14,308 | Features: Noise cancelling, Voice control, Wireless sync
+Warranty: 2 year(s)
+
+Product: NuNode SSD v9.5
+Price: ₹6,909 | Features: Compact design, Voice control, Water resistant
+Warranty: 3 year(s)
+
+Product: BetaBuds Wireless v7.9
+Price: ₹8,801 | Features: Compact design, Bluetooth 5.3, Noise cancelling
+Warranty: 3 year(s)
+
+Product: GammaCharge Pro v1.5
+Price: ₹44,411 | Features: Touch interface, Voice control, Compact design
+Warranty: 2 year(s)
+
+Product: EtaLight Smart Bulb v1.6
+Price: ₹48,615 | Features: Fast charging, Long battery life, OLED display
+Warranty: 3 year(s)
+
+Product: OmicronOscilloscope v1.8
+Price: ₹42,868 | Features: Wireless sync, OLED display, Fast charging
+Warranty: 3 year(s)
+
+Product: NuNode SSD v9.7
+Price: ₹13,274 | Features: Long battery life, Voice control, Wireless sync
+Warranty: 2 year(s)
+
+Product: LambdaLink Router v5.0
+Price: ₹23,853 | Features: Voice control, Water resistant, Bluetooth 5.3
+Warranty: 2 year(s)
+
+Product: UpsilonUltra Phone v1.9
+Price: ₹3,453 | Features: Bluetooth 5.3, Long battery life, Voice control
+Warranty: 1 year(s)
+
+Product: ZetaSound Bar v6.6
+Price: ₹42,017 | Features: Compact design, Touch interface, Long battery life
+Warranty: 1 year(s)
+
+Product: IotaMouse Gaming v7.3
+Price: ₹5,043 | Features: Touch interface, Long battery life, OLED display
+Warranty: 2 year(s)
+
+Product: GammaCharge Pro v4.5
+Price: ₹22,365 | Features: Bluetooth 5.3, Fast charging, OLED display
+Warranty: 2 year(s)
+
+Product: XiXenon Monitor v5.6
+Price: ₹18,952 | Features: Voice control, Water resistant, Bluetooth 5.3
+Warranty: 1 year(s)
+
+Product: GammaCharge Pro v5.2
+Price: ₹29,765 | Features: Compact design, Voice control, OLED display
+Warranty: 3 year(s)
+
+Product: EpsilonCam 4K v2.4
+Price: ₹42,244 | Features: Water resistant, Compact design, Wireless sync
+Warranty: 1 year(s)
+
+Product: DeltaTab 10 v2.3
+Price: ₹2,792 | Features: Touch interface, Water resistant, Wireless sync
+Warranty: 1 year(s)
+
+Product: BetaBuds Wireless v8.9
+Price: ₹19,159 | Features: Voice control, Water resistant, Bluetooth 5.3
+Warranty: 2 year(s)
+
+Product: RhoRing Smart v5.8
+Price: ₹32,298 | Features: Compact design, Fast charging, Long battery life
+Warranty: 1 year(s)
+
+Product: AlphaSmart Watch v5.8
+Price: ₹37,284 | Features: Touch interface, OLED display, Water resistant
+Warranty: 1 year(s)
+
+Product: IotaMouse Gaming v9.8
+Price: ₹43,051 | Features: Water resistant, Fast charging, Noise cancelling
+Warranty: 3 year(s)
+
+Product: PiPrint 3D v6.0
+Price: ₹22,485 | Features: Compact design, OLED display, Wireless sync
+Warranty: 1 year(s)
+
+Product: PiPrint 3D v6.6
+Price: ₹33,258 | Features: Fast charging, Bluetooth 5.3, Compact design
+Warranty: 3 year(s)
+
+Product: TauTherm Smart v9.1
+Price: ₹45,810 | Features: Fast charging, Wireless sync, Compact design
+Warranty: 1 year(s)
+
+Product: TauTherm Smart v1.0
+Price: ₹47,575 | Features: Voice control, Bluetooth 5.3, Water resistant
+Warranty: 3 year(s)
+
+Product: OmicronOscilloscope v4.9
+Price: ₹12,533 | Features: Water resistant, Noise cancelling, Bluetooth 5.3
+Warranty: 1 year(s)
+
+Product: AlphaSmart Watch v3.3
+Price: ₹39,693 | Features: Wireless sync, Long battery life, Touch interface
+Warranty: 3 year(s)
+
+Product: RhoRing Smart v3.9
+Price: ₹16,571 | Features: Bluetooth 5.3, Fast charging, Water resistant
+Warranty: 2 year(s)
+
+Product: IotaMouse Gaming v2.3
+Price: ₹3,991 | Features: Compact design, Noise cancelling, Bluetooth 5.3
+Warranty: 1 year(s)
+
+Product: GammaCharge Pro v6.4
+Price: ₹45,577 | Features: Long battery life, Noise cancelling, Wireless sync
+Warranty: 1 year(s)
+
+Product: OmicronOscilloscope v8.0
+Price: ₹40,412 | Features: Fast charging, Compact design, OLED display
+Warranty: 3 year(s)
+
+Product: EpsilonCam 4K v8.7
+Price: ₹24,475 | Features: Touch interface, Bluetooth 5.3, Noise cancelling
+Warranty: 3 year(s)
+
+Product: PiPrint 3D v4.9
+Price: ₹42,361 | Features: Noise cancelling, Long battery life, Fast charging
+Warranty: 2 year(s)
+
+Product: NuNode SSD v1.3
+Price: ₹6,507 | Features: Wireless sync, Water resistant, Noise cancelling
+Warranty: 1 year(s)
+
+Product: IotaMouse Gaming v4.5
+Price: ₹15,240 | Features: OLED display, Wireless sync, Compact design
+Warranty: 3 year(s)
+
+Product: IotaMouse Gaming v7.7
+Price: ₹18,763 | Features: Water resistant, Noise cancelling, Long battery life
+Warranty: 3 year(s)
+
+Product: LambdaLink Router v4.7
+Price: ₹33,928 | Features: Bluetooth 5.3, Noise cancelling, Water resistant
+Warranty: 3 year(s)
+
+Product: ZetaSound Bar v5.0
+Price: ₹13,370 | Features: Voice control, Wireless sync, Long battery life
+Warranty: 2 year(s)
+
+Product: PiPrint 3D v2.7
+Price: ₹16,795 | Features: Compact design, Bluetooth 5.3, OLED display
+Warranty: 3 year(s)
+
+Product: EpsilonCam 4K v1.1
+Price: ₹1,040 | Features: Wireless sync, OLED display, Noise cancelling
+Warranty: 2 year(s)
+
+Product: EtaLight Smart Bulb v1.9
+Price: ₹30,220 | Features: OLED display, Wireless sync, Compact design
+Warranty: 1 year(s)
+
+Product: AlphaSmart Watch v7.2
+Price: ₹47,245 | Features: Touch interface, Noise cancelling, OLED display
+Warranty: 3 year(s)
+
+Product: LambdaLink Router v7.7
+Price: ₹29,532 | Features: Compact design, Noise cancelling, Touch interface
+Warranty: 3 year(s)
+
+Product: ThetaKey Mechanical Keyboard v8.7
+Price: ₹41,074 | Features: Long battery life, Water resistant, Touch interface
+Warranty: 2 year(s)
+
+Product: NuNode SSD v2.2
+Price: ₹2,050 | Features: Touch interface, Fast charging, Noise cancelling
+Warranty: 2 year(s)
+
+Product: XiXenon Monitor v8.6
+Price: ₹30,246 | Features: Compact design, Noise cancelling, Touch interface
+Warranty: 2 year(s)
+
+Product: UpsilonUltra Phone v5.5
+Price: ₹31,945 | Features: Voice control, Long battery life, Noise cancelling
+Warranty: 3 year(s)
+
+Product: IotaMouse Gaming v3.7
+Price: ₹17,998 | Features: Touch interface, Wireless sync, Fast charging
+Warranty: 2 year(s)
+
+Product: ThetaKey Mechanical Keyboard v6.7
+Price: ₹35,567 | Features: OLED display, Bluetooth 5.3, Compact design
+Warranty: 2 year(s)
+
+Product: GammaCharge Pro v2.4
+Price: ₹13,675 | Features: Voice control, Compact design, Bluetooth 5.3
+Warranty: 3 year(s)
+
+Product: DeltaTab 10 v7.9
+Price: ₹37,586 | Features: Noise cancelling, OLED display, Voice control
+Warranty: 2 year(s)
+
+Product: XiXenon Monitor v5.1
+Price: ₹47,985 | Features: Voice control, Wireless sync, Noise cancelling
+Warranty: 2 year(s)
+
+Product: AlphaSmart Watch v2.0
+Price: ₹14,717 | Features: Water resistant, Touch interface, Voice control
+Warranty: 3 year(s)
+
+Product: GammaCharge Pro v4.7
+Price: ₹1,316 | Features: Compact design, Noise cancelling, OLED display
+Warranty: 3 year(s)
+
+Product: BetaBuds Wireless v3.8
+Price: ₹48,872 | Features: Bluetooth 5.3, Noise cancelling, Fast charging
+Warranty: 3 year(s)
+
+Product: ZetaSound Bar v3.2
+Price: ₹6,919 | Features: Fast charging, Long battery life, Noise cancelling
+Warranty: 3 year(s)
+
+Product: NuNode SSD v4.6
+Price: ₹37,768 | Features: Water resistant, Wireless sync, Voice control
+Warranty: 1 year(s)
+
+Product: AlphaSmart Watch v2.5
+Price: ₹26,625 | Features: Fast charging, Water resistant, Wireless sync
+Warranty: 2 year(s)
+
+Product: SigmaScale Body v5.8
+Price: ₹36,334 | Features: Bluetooth 5.3, Noise cancelling, OLED display
+Warranty: 3 year(s)
+
+Product: IotaMouse Gaming v8.2
+Price: ₹32,659 | Features: Noise cancelling, Compact design, Voice control
+Warranty: 1 year(s)
+
+Product: UpsilonUltra Phone v5.4
+Price: ₹48,717 | Features: Water resistant, OLED display, Compact design
+Warranty: 1 year(s)
+
+Product: TauTherm Smart v7.7
+Price: ₹35,162 | Features: Compact design, Long battery life, Touch interface
+Warranty: 2 year(s)
+
+Product: PiPrint 3D v1.9
+Price: ₹6,697 | Features: OLED display, Voice control, Touch interface
+Warranty: 3 year(s)
+
+Product: SigmaScale Body v2.4
+Price: ₹2,129 | Features: Noise cancelling, Touch interface, Bluetooth 5.3
+Warranty: 2 year(s)
+
+Product: NuNode SSD v1.6
+Price: ₹18,265 | Features: Noise cancelling, OLED display, Long battery life
+Warranty: 3 year(s)
+
+Product: EpsilonCam 4K v4.7
+Price: ₹35,649 | Features: Noise cancelling, Voice control, Fast charging
+Warranty: 1 year(s)
+
+Product: AlphaSmart Watch v5.2
+Price: ₹42,848 | Features: Bluetooth 5.3, Water resistant, Wireless sync
+Warranty: 3 year(s)
+
+Product: OmicronOscilloscope v6.0
+Price: ₹43,801 | Features: Long battery life, OLED display, Voice control
+Warranty: 1 year(s)
+
+Product: ThetaKey Mechanical Keyboard v1.0
+Price: ₹18,008 | Features: Bluetooth 5.3, Noise cancelling, Compact design
+Warranty: 2 year(s)
+
+Product: ZetaSound Bar v9.2
+Price: ₹38,136 | Features: Bluetooth 5.3, OLED display, Long battery life
+Warranty: 3 year(s)
+
+Product: EtaLight Smart Bulb v4.3
+Price: ₹48,239 | Features: Long battery life, Bluetooth 5.3, Water resistant
+Warranty: 1 year(s)
+
+Product: EpsilonCam 4K v2.9
+Price: ₹31,506 | Features: Water resistant, Wireless sync, Compact design
+Warranty: 2 year(s)
+
+Product: OmicronOscilloscope v7.7
+Price: ₹21,936 | Features: OLED display, Noise cancelling, Touch interface
+Warranty: 3 year(s)
+
+Product: KappaPad Pro v6.0
+Price: ₹21,130 | Features: Water resistant, Long battery life, Bluetooth 5.3
+Warranty: 3 year(s)
+
+Product: PiPrint 3D v6.6
+Price: ₹13,875 | Features: Touch interface, Voice control, Long battery life
+Warranty: 2 year(s)
+
+Product: UpsilonUltra Phone v3.3
+Price: ₹36,837 | Features: Noise cancelling, OLED display, Water resistant
+Warranty: 1 year(s)
+
+Product: ThetaKey Mechanical Keyboard v9.4
+Price: ₹28,270 | Features: Water resistant, Noise cancelling, Long battery life
+Warranty: 3 year(s)
+
+Product: IotaMouse Gaming v7.5
+Price: ₹37,861 | Features: Compact design, Long battery life, Wireless sync
+Warranty: 3 year(s)
+
+Product: TauTherm Smart v5.3
+Price: ₹33,865 | Features: Bluetooth 5.3, Compact design, Long battery life
+Warranty: 2 year(s)
+
+Product: KappaPad Pro v8.7
+Price: ₹11,111 | Features: Voice control, Long battery life, Touch interface
+Warranty: 2 year(s)
+
+Product: SigmaScale Body v4.1
+Price: ₹15,082 | Features: Fast charging, Water resistant, OLED display
+Warranty: 1 year(s)
+
+Product: XiXenon Monitor v8.3
+Price: ₹21,306 | Features: Fast charging, Long battery life, Touch interface
+Warranty: 2 year(s)
+
+Product: GammaCharge Pro v5.3
+Price: ₹27,672 | Features: Noise cancelling, Long battery life, Compact design
+Warranty: 1 year(s)
+
+Product: EpsilonCam 4K v2.5
+Price: ₹20,700 | Features: OLED display, Wireless sync, Compact design
+Warranty: 3 year(s)
+
+Product: ThetaKey Mechanical Keyboard v3.5
+Price: ₹31,640 | Features: Fast charging, Water resistant, Noise cancelling
+Warranty: 2 year(s)
+
+Product: EpsilonCam 4K v2.4
+Price: ₹19,912 | Features: Touch interface, Compact design, Fast charging
+Warranty: 2 year(s)
+
+Product: DeltaTab 10 v5.2
+Price: ₹3,286 | Features: Bluetooth 5.3, Water resistant, Wireless sync
+Warranty: 2 year(s)
+
+Product: SigmaScale Body v6.8
+Price: ₹18,184 | Features: Noise cancelling, OLED display, Bluetooth 5.3
+Warranty: 2 year(s)
+
+Product: ThetaKey Mechanical Keyboard v6.0
+Price: ₹8,234 | Features: Touch interface, Compact design, Voice control
+Warranty: 2 year(s)
+
+Product: UpsilonUltra Phone v9.8
+Price: ₹40,206 | Features: Bluetooth 5.3, OLED display, Voice control
+Warranty: 3 year(s)
+
+Product: SigmaScale Body v7.8
+Price: ₹37,440 | Features: OLED display, Touch interface, Noise cancelling
+Warranty: 1 year(s)
+
+Product: IotaMouse Gaming v1.2
+Price: ₹7,258 | Features: Bluetooth 5.3, Noise cancelling, Fast charging
+Warranty: 3 year(s)
+
+Product: UpsilonUltra Phone v4.9
+Price: ₹3,676 | Features: Voice control, Long battery life, OLED display
+Warranty: 2 year(s)
+
+Product: PiPrint 3D v9.4
+Price: ₹28,944 | Features: Bluetooth 5.3, Water resistant, Wireless sync
+Warranty: 1 year(s)
+
+Product: AlphaSmart Watch v8.2
+Price: ₹36,560 | Features: Compact design, Wireless sync, Noise cancelling
+Warranty: 2 year(s)
+
+Product: IotaMouse Gaming v9.8
+Price: ₹43,702 | Features: Long battery life, OLED display, Wireless sync
+Warranty: 3 year(s)
+
+Product: ThetaKey Mechanical Keyboard v3.8
+Price: ₹22,160 | Features: OLED display, Water resistant, Noise cancelling
+Warranty: 3 year(s)
+
+Product: KappaPad Pro v6.0
+Price: ₹6,352 | Features: Touch interface, Water resistant, Wireless sync
+Warranty: 3 year(s)
+
+Product: GammaCharge Pro v6.2
+Price: ₹15,189 | Features: Compact design, Fast charging, Wireless sync
+Warranty: 1 year(s)
+
+Product: EpsilonCam 4K v2.1
+Price: ₹23,563 | Features: Bluetooth 5.3, Touch interface, Compact design
+Warranty: 2 year(s)
+
+Product: PiPrint 3D v1.4
+Price: ₹8,884 | Features: Touch interface, Fast charging, Noise cancelling
+Warranty: 3 year(s)
+
+Product: ZetaSound Bar v6.6
+Price: ₹34,391 | Features: Bluetooth 5.3, OLED display, Noise cancelling
+Warranty: 3 year(s)
+
+Product: XiXenon Monitor v1.5
+Price: ₹12,943 | Features: Touch interface, Compact design, Voice control
+Warranty: 3 year(s)
+
+Product: RhoRing Smart v5.9
+Price: ₹44,443 | Features: Touch interface, OLED display, Compact design
+Warranty: 3 year(s)
+
+Product: MuMic Streamer v1.5
+Price: ₹43,103 | Features: OLED display, Voice control, Touch interface
+Warranty: 2 year(s)
+
+Product: SigmaScale Body v3.8
+Price: ₹30,245 | Features: Long battery life, Noise cancelling, Voice control
+Warranty: 3 year(s)
+
+Product: RhoRing Smart v1.5
+Price: ₹22,305 | Features: Voice control, Fast charging, Touch interface
+Warranty: 2 year(s)
+
+Product: EtaLight Smart Bulb v4.1
+Price: ₹47,955 | Features: OLED display, Water resistant, Compact design
+Warranty: 2 year(s)
+
+Product: AlphaSmart Watch v8.8
+Price: ₹29,877 | Features: Wireless sync, Bluetooth 5.3, Compact design
+Warranty: 2 year(s)
+
+Product: NuNode SSD v1.2
+Price: ₹41,254 | Features: Fast charging, Water resistant, Voice control
+Warranty: 3 year(s)
+
+Product: XiXenon Monitor v2.7
+Price: ₹3,723 | Features: Compact design, OLED display, Noise cancelling
+Warranty: 1 year(s)
+
+Product: TauTherm Smart v9.4
+Price: ₹48,785 | Features: Noise cancelling, Compact design, Voice control
+Warranty: 1 year(s)
+
+Product: IotaMouse Gaming v9.6
+Price: ₹2,273 | Features: Fast charging, Voice control, Bluetooth 5.3
+Warranty: 3 year(s)
+
+Product: TauTherm Smart v6.3
+Price: ₹34,597 | Features: Fast charging, Voice control, Wireless sync
+Warranty: 2 year(s)
+
+Product: MuMic Streamer v7.7
+Price: ₹44,755 | Features: Compact design, Long battery life, Water resistant
+Warranty: 3 year(s)
+
+Product: XiXenon Monitor v5.0
+Price: ₹9,574 | Features: Noise cancelling, Wireless sync, Water resistant
+Warranty: 3 year(s)
+
+Product: EtaLight Smart Bulb v2.6
+Price: ₹1,157 | Features: Touch interface, Fast charging, Bluetooth 5.3
+Warranty: 2 year(s)
+
+Product: EtaLight Smart Bulb v9.1
+Price: ₹11,842 | Features: Water resistant, Voice control, Fast charging
+Warranty: 2 year(s)
+
+Product: RhoRing Smart v9.4
+Price: ₹37,726 | Features: Noise cancelling, Touch interface, Voice control
+Warranty: 3 year(s)
+
+Product: EpsilonCam 4K v6.2
+Price: ₹9,965 | Features: Wireless sync, Fast charging, Compact design
+Warranty: 1 year(s)
+
+Product: LambdaLink Router v3.3
+Price: ₹33,385 | Features: Bluetooth 5.3, Touch interface, Voice control
+Warranty: 1 year(s)
+
+Product: BetaBuds Wireless v6.2
+Price: ₹18,167 | Features: Wireless sync, Water resistant, Noise cancelling
+Warranty: 1 year(s)
+
+Product: EpsilonCam 4K v4.6
+Price: ₹12,799 | Features: Compact design, OLED display, Long battery life
+Warranty: 1 year(s)
+
+Product: EpsilonCam 4K v4.2
+Price: ₹20,500 | Features: OLED display, Compact design, Bluetooth 5.3
+Warranty: 3 year(s)
+
+Product: BetaBuds Wireless v4.2
+Price: ₹10,872 | Features: Long battery life, Compact design, Noise cancelling
+Warranty: 2 year(s)
+
+Product: DeltaTab 10 v8.1
+Price: ₹44,683 | Features: Fast charging, OLED display, Compact design
+Warranty: 3 year(s)
+
+Product: DeltaTab 10 v4.5
+Price: ₹36,775 | Features: Long battery life, Voice control, Compact design
+Warranty: 2 year(s)
+
+Product: SigmaScale Body v3.8
+Price: ₹33,677 | Features: Compact design, Water resistant, Wireless sync
+Warranty: 3 year(s)
+
+Product: IotaMouse Gaming v8.9
+Price: ₹11,052 | Features: Bluetooth 5.3, Long battery life, Touch interface
+Warranty: 1 year(s)
+
+Product: LambdaLink Router v2.0
+Price: ₹10,756 | Features: Water resistant, Noise cancelling, Bluetooth 5.3
+Warranty: 1 year(s)
+
+Product: EpsilonCam 4K v6.3
+Price: ₹7,857 | Features: Touch interface, OLED display, Long battery life
+Warranty: 3 year(s)
+
+Product: RhoRing Smart v2.2
+Price: ₹39,058 | Features: Water resistant, Noise cancelling, Long battery life
+Warranty: 1 year(s)
+
+Product: KappaPad Pro v9.9
+Price: ₹3,955 | Features: Touch interface, Bluetooth 5.3, Fast charging
+Warranty: 2 year(s)
+
+Product: XiXenon Monitor v4.2
+Price: ₹3,177 | Features: Bluetooth 5.3, Voice control, Compact design
+Warranty: 3 year(s)
+
+Product: XiXenon Monitor v6.0
+Price: ₹49,887 | Features: Touch interface, Water resistant, OLED display
+Warranty: 2 year(s)
+
+Product: OmicronOscilloscope v6.4
+Price: ₹26,527 | Features: Water resistant, Compact design, OLED display
+Warranty: 3 year(s)
+
+Product: NuNode SSD v6.0
+Price: ₹14,753 | Features: Long battery life, Touch interface, Voice control
+Warranty: 2 year(s)
+
+Product: EpsilonCam 4K v5.1
+Price: ₹6,879 | Features: Compact design, Bluetooth 5.3, Long battery life
+Warranty: 2 year(s)
+
+Product: ThetaKey Mechanical Keyboard v4.0
+Price: ₹44,622 | Features: Touch interface, Long battery life, Water resistant
+Warranty: 3 year(s)
+
+Product: XiXenon Monitor v5.0
+Price: ₹42,383 | Features: Wireless sync, Noise cancelling, Bluetooth 5.3
+Warranty: 2 year(s)
+
+Product: AlphaSmart Watch v4.1
+Price: ₹13,830 | Features: Bluetooth 5.3, Wireless sync, Water resistant
+Warranty: 3 year(s)
+
+Product: IotaMouse Gaming v5.4
+Price: ₹14,743 | Features: Wireless sync, Touch interface, Bluetooth 5.3
+Warranty: 2 year(s)
+
+Product: MuMic Streamer v5.7
+Price: ₹37,515 | Features: Noise cancelling, Wireless sync, Water resistant
+Warranty: 3 year(s)
+
+Product: NuNode SSD v9.7
+Price: ₹44,338 | Features: Voice control, Wireless sync, Compact design
+Warranty: 3 year(s)
+
+Product: OmicronOscilloscope v8.6
+Price: ₹41,776 | Features: Fast charging, Compact design, Long battery life
+Warranty: 3 year(s)
+
+Product: ZetaSound Bar v7.4
+Price: ₹12,152 | Features: Wireless sync, Long battery life, Fast charging
+Warranty: 2 year(s)
+
+Product: RhoRing Smart v9.5
+Price: ₹16,340 | Features: Noise cancelling, Wireless sync, Compact design
+Warranty: 1 year(s)
+
+Product: PiPrint 3D v7.9
+Price: ₹27,751 | Features: Bluetooth 5.3, Fast charging, Touch interface
+Warranty: 3 year(s)
+
+Product: EpsilonCam 4K v4.0
+Price: ₹43,379 | Features: Noise cancelling, Wireless sync, Long battery life
+Warranty: 2 year(s)
+
+Product: DeltaTab 10 v6.3
+Price: ₹30,411 | Features: Water resistant, Bluetooth 5.3, Compact design
+Warranty: 3 year(s)
+
+Product: ThetaKey Mechanical Keyboard v1.6
+Price: ₹40,965 | Features: OLED display, Bluetooth 5.3, Water resistant
+Warranty: 3 year(s)

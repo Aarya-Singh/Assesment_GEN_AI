@@ -1,0 +1,22 @@
+# Python
+venv/
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+
+# Environment / Sensitive
+.env
+history.db
+history.db-shm
+history.db-wal
+
+# Databases & Cache
+chroma_db/
+chroma_cache/
+app.log
+
+# IDEs
+.vscode/
+.idea/
+.DS_Store

@@ -1,0 +1,12 @@
+langchain
+langchain-google-genai
+langchain-community
+langchain-chroma
+langgraph
+langgraph-checkpoint-sqlite
+fastapi
+uvicorn
+python-dotenv
+pydantic
+chromadb
+marked
